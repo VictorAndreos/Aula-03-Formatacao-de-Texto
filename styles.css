@@ -1,0 +1,21 @@
+html{
+    color: aliceblue;
+    background-color: black;
+}
+
+h1{
+    padding: 20px;
+    margin: 32px;
+    color: black;
+    background-color: yellow;
+}
+
+
+p{
+    padding: 20px;
+    font-size: 18px;
+    margin: 12px;
+    border: solid;
+    border-width: 12px;
+    border-color: #ccc cyan #ff0095 palegreen;
+}
